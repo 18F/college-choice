@@ -1,5 +1,7 @@
 # College Scorecard
 
+[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
+
 A website that allows students (high school and adult) and those who support them (parents, guidance counselors)
 to not only search among colleges to find schools that would meet their desires, but also encourage them to consider
 "value" factors, be exposed to schools with better outcomes, and allow users to compare and contrast schools across
